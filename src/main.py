@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 from templates import list_templates
+from generator import create_project
 
 def main():
   print("🚀 Welcome to Create Forge App")
